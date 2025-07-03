@@ -9,7 +9,7 @@ RUN rm -rf ./*
 
 # Copy custom files
 COPY index.html .
-COPY image.png .
+COPY ChatGPT Image Jul 3, 2025, 08_00_04 PM.png .
 
 # Expose port
 EXPOSE 80
